@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Loomisdk2
+- 👋 Hi, I’m @Loomisdk2 (Douglas Loomis)
 - 👀 I’m interested in music. I'm a pianist with 25+ years of pian playing experience which includes 16+ years of teaching piano.
 - 🌱 I’m currently learning full-stack web development.
 - 💞️ I’m looking to collaborate on anything that gives me hands-on experience!
